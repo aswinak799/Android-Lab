@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "Activity Paused", Toast.LENGTH_SHORT).show();
     }
     public void Activity2(){
-        Intent i = new Intent(getApplicationContext(), Activity2.class);
+        Intent i = new Intent(this, Activity2.class);
         startActivity(i);
     }
 

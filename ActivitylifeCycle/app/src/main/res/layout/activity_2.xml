@@ -7,10 +7,10 @@
     tools:context=".Activity2">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/TX1"
         android:layout_width="282dp"
         android:layout_height="40dp"
-        android:text="WELCOME TO ACTIVITY2"
+        android:text="WELCOME TO ACTIVITY 2"
         android:padding="3dp"
         android:gravity="center"
 
