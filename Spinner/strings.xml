@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="name_arr">
+        <item>Junaid</item>
+        <item>Sanan</item>
+        <item>Anand</item>
+        <item>Midhun</item>
+        <item>Jithu</item>
+        <item>AK</item>
+        <item>Abin</item>
+        <item>Syam</item>
+    </string-array>
+
+</resources>
